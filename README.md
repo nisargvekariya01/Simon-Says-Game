@@ -1,6 +1,7 @@
 # 🎮 Simon Says Game 🕹️
 
-<img src="GamePlay.png" height=50% width=50%>  
+<img src="GamePlay.png" height=50% width=50%> 
+
 *Test your memory with this fun and colorful Simon Says game! 🎲*
 
 ## 📋 Table of Contents
