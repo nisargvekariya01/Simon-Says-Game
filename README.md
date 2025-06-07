@@ -6,7 +6,6 @@
 ## 📋 Table of Contents
 - [About](#about)
 - [Features](#features)
-- [Demo](#demo)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
@@ -20,12 +19,7 @@ Simon Says is a classic memory game where players must repeat a sequence of colo
 - **Interactive Gameplay** 🎮: Click colorful buttons to match the sequence.
 - **Progressive Difficulty** 📈: Levels get harder as you advance.
 - **Visual Feedback** 💡: Buttons flash to guide the sequence and confirm clicks.
-- **Responsive Design** 📱: Play on desktop or mobile with ease.
 - **Game Over Screen** 🏁: See your score and restart with a keypress.
-
-## 🌟 Demo
-Play the game live [here](#) (replace with your deployed link, e.g., GitHub Pages).  
-![Gameplay Screenshot](https://via.placeholder.com/600x300.png?text=Gameplay+Screenshot)
 
 ## 🎲 How to Play
 1. Press any key to start the game 🚀.
