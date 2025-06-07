@@ -69,7 +69,7 @@ To contribute:
 Please keep code clean and add comments for clarity.
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/nisargvekariya01/Simon-Says-Game/blob/92f74dde921185302557af3dd6656c720af5b6b0/LICENSE.md) file for details.
 
 ---
 
