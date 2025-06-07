@@ -1,6 +1,6 @@
 # 🎮 Simon Says Game 🕹️
 
-![Simon Says Game](https://github.com/nisargvekariya01/Simon-Says-Game/blob/71406242e813913796f1f92298205ad2e5943521/GamePlay.png)  
+![Simon Says Game]<img src="GamePlay.png" height=70% width=70%>  
 *Test your memory with this fun and colorful Simon Says game! 🎲*
 
 ## 📋 Table of Contents
